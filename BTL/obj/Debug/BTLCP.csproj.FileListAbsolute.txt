@@ -1,0 +1,3 @@
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.pdb

@@ -1,0 +1,46 @@
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\bin\Debug\BTL.exe.config
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\bin\Debug\BTL.exe
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\bin\Debug\BTL.pdb
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.Cache
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\obj\Debug\BTL.exe
+c:\users\duckhuyn\documents\visual studio 2013\Projects\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.DonVi.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.DangKy.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.DangNhap.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.LoaiTaiSan.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.Main.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.TaiSan.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.TaiKhoan.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.QuenPass.resources
+C:\Users\DuckHuyn\Documents\Visual Studio 2013\Projects\BTL\BTL\obj\Debug\BTL.csprojResolveAssemblyReference.cache
+D:\BTL.net\BTL\BTL\bin\Debug\BTL.exe.config
+D:\BTL.net\BTL\BTL\obj\Debug\BTL.exe
+D:\BTL.net\BTL\BTL\obj\Debug\BTL.pdb
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\BTL.exe.config
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.exe
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.pdb
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\BTL.exe
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\BTL.pdb
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.DangNhap.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.Main.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.Cache
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\Npgsql.dll
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\Npgsql.xml
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Buffers.dll
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Memory.dll
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.ValueTuple.dll
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\Npgsql.pdb
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Buffers.xml
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Memory.xml
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BTL.net - Copy\BTL\BTL\bin\Debug\System.ValueTuple.xml
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.dkcvden.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.dkcvdi.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.qlcvden.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.qlcvdi.resources
+D:\BTL.net - Copy\BTL\BTL\obj\Debug\BTL.csprojResolveAssemblyReference.cache
